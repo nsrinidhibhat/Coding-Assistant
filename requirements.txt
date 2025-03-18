@@ -1,0 +1,4 @@
+
+gradio==5.21.0
+lmstudio==1.1.0
+pydantic==2.10.6
