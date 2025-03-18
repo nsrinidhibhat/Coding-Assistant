@@ -14,7 +14,7 @@ A chatbot that generates, modifies, and explains Python code using `qwen2.5-code
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.12+
 - `lmstudio` for running LLM models locally
 - `gradio` for the UI
 
@@ -46,7 +46,7 @@ python gradio_interface.py
 
 ## Setting Up LM Studio
 
-1. Install **LM Studio** from the official website.
+1. Install [**LM Studio**](https://lmstudio.ai) from the official website. 
 2. Open **LM Studio** and select the **Power User** option at the bottom to enable developer options.
 3. Go to **Discover** on the left panel, select a **code model**, and download it.
 4. Navigate to **Developer Options** on the left panel.
